@@ -1,1 +1,4 @@
 # zsh-cute-config
+
+
+Based on [andrenbrandao Terminal Setup with Zsh + Tmux + Dracula Theme](https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm)
